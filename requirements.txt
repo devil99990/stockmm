@@ -2,10 +2,9 @@ yfinance == 0.1.87
 fbprophet==0.7.1
 pandas==1.3.5
 plotly==5.11.0
-
 streamlit
 matplotlib
 pip
-PyStan=3.0.0
+pystan==3.6.0
 httpstan==4.4.1
 FbProphet=0.7.1
