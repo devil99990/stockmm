@@ -1,8 +1,8 @@
 yfinance
 pip
 fbprophet
-httpstan
-pystan==4.7
+httpstan==4.7
+pystan
 pandas
 plotly
 streamlit
