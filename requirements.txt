@@ -1,6 +1,7 @@
 yfinance==0.1.87
 pip
 fbprophet
+httpstan
 pandas==1.3.5
 plotly==5.11.0
 streamlit
