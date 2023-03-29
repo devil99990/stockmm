@@ -7,4 +7,4 @@ matplotlib
 pip
 pystan==3.6.0
 httpstan==4.4.1
-fbprophet==0.6
+
