@@ -8,3 +8,7 @@ matplotlib
 pystan=2.19.1
 cmdstanpy=0.9.5
 pip
+CentOS: 7
+GCC: 4.8.5
+PyStan: 2.19.1.1
+FbProphet: 0.7.1
