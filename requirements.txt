@@ -4,4 +4,4 @@ fbprophet==0.6
 pandas==1.3.5
 plotly==5.11.0
 httpstan==2.3.0
-pystan==3.6.0
+pystan==3.0.0
