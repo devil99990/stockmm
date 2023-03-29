@@ -2,8 +2,10 @@ yfinance
 pip
 fbprophet
 httpstan
+pystan
 pandas
 plotly
 streamlit
 pillow
 numpy
+
