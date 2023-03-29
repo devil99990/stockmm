@@ -6,8 +6,6 @@ plotly==5.11.0
 streamlit
 matplotlib
 pip
-CentOS=7
-GCC=4.8.5
 PyStan=3.0.0
 httpstan==4.4.1
 FbProphet=0.7.1
