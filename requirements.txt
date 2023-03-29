@@ -7,3 +7,4 @@ streamlit
 matplotlib
 pystan=2.19.1
 cmdstanpy=0.9.5
+pip
