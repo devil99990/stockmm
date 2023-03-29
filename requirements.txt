@@ -6,3 +6,4 @@ plotly==5.11.0
 httpstan==4.4.1
 pystan==2.19
 streamlit
+matplotlib
