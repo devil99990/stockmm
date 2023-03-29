@@ -1,7 +1,7 @@
 yfinance
 pip
 fbprophet
-httpstan==4.7
+httpstan
 pystan
 pandas
 plotly
