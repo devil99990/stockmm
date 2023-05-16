@@ -6,6 +6,6 @@ streamlit
 matplotlib
 httpstan==4.4.1
 PyStan==2.19.1.1
-pip==23.0.1
+pip==23.1.2
 wheel
 newsapi-cli==1.2.1
