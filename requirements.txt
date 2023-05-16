@@ -8,3 +8,4 @@ httpstan==4.4.1
 PyStan==2.19.1.1
 pip==23.0.1
 wheel
+pip install newsapi-cli==1.2.1
